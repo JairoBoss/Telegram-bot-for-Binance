@@ -32,4 +32,19 @@ def main():
     updater.idle()
     
 
-main()
+#main()
+
+str1 = "API_KEY_TELEGRAM = 'AYUDA XD'"
+aux = False
+for x in str1:
+    if (x == "'" or aux == True):
+        aux = True
+        if(x == "'"):
+            continue
+        print(x, end="")
+        
+"""file = open("Config/config.txt","r")
+for x in file:
+    print(x)
+
+file.close"""
