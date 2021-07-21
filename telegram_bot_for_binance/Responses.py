@@ -1,4 +1,5 @@
-from datetime import datetime
+"""Funcionamiento del bot"""
+
 
 def saludo(inputMessage):
     if (inputMessage in ("Hola","Hi",)):
@@ -8,4 +9,3 @@ def saludo(inputMessage):
         return "Amonos"
     
     return "No"
-    
