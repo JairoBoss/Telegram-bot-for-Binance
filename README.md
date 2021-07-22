@@ -7,3 +7,16 @@ Para que empiece a funcionar necesitas correr el archivo Main.py en la carpeta d
 To make it work you first have to create a telegram bot and get its API, you will also need your Binance API_Key and Secret_Key, these two will be added in the config.txt file in the Config folder.
 For it to start working you need to run the Main.py file in the telegram_bot_for_binance folder
 
+Imagenes del funcionamiento
+
+/start
+
+![start](https://user-images.githubusercontent.com/61020858/126578101-13a2b92e-027d-4d3d-a798-5d057b34e489.png)
+
+/precioBTC
+
+![precio](https://user-images.githubusercontent.com/61020858/126578172-1fe49038-1ace-42a1-9f98-a7e706d74bba.png)
+
+/help
+
+![help](https://user-images.githubusercontent.com/61020858/126578220-602c5957-b121-4868-b419-7c6811d175ff.png)
